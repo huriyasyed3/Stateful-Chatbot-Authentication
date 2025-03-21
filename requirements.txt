@@ -74,7 +74,6 @@ python-multipart==0.0.20
 pytweening==1.2.0
 pytz==2025.1
 pywhatkit==5.4
-pywin32==310
 PyYAML==6.0.2
 referencing==0.36.2
 reportlab==4.3.1
